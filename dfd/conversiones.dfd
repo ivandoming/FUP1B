@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'escribe los MB a convertir'
+5
+1
+2
+N1
+6
+3
+4
+bits
+15
+N1* 1024*1024*8
+5
+bytes
+12
+N1*1024*1024
+2
+KB
+10
+bytes/1024
+6
+2
+2
+GB
+7
+N1/1024
+2
+TB
+12
+N1/1024/1024
+4
+1
+25
+'el resultado sera', bits
+4
+1
+10
+'r', bytes
+4
+1
+6
+'r',KB
+4
+1
+6
+'r',GB
+4
+1
+6
+'r',TB
+1

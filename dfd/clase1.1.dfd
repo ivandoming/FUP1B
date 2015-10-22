@@ -1,0 +1,79 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'porgrama que suma dos numeros'
+4
+1
+16
+'dame un numero'
+5
+1
+2
+N1
+4
+1
+18
+'dame otro numero'
+5
+1
+2
+N2
+6
+1
+9
+resultado
+5
+N1+N2
+4
+1
+22
+'la suma es',resultado
+4
+1
+38
+'la multiplicacion de los dos numeros'
+6
+1
+9
+resultado
+5
+N1*N2
+4
+1
+32
+'la multiplicacion es',resultado
+4
+1
+33
+'la división de los dos numeros '
+6
+1
+9
+resultado
+5
+N1/N2
+4
+1
+26
+'la divicion es',resultado
+4
+1
+32
+'la resta de los dos numeros es'
+6
+1
+9
+resultado
+5
+N1-N2
+4
+1
+39
+'el resultado de la resta es',resultado
+1

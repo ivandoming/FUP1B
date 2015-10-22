@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+5
+costo
+6
+2
+3
+IVA
+10
+costo*0.16
+10
+valorfinal
+9
+costo+IVA
+4
+1
+26
+'el valor del IVA es:',IVA
+4
+1
+38
+'el valor de tu compra es:',valorfinal
+1

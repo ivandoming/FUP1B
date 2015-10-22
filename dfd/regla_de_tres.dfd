@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'calcular una regla de tres'
+4
+1
+16
+'dame un numero'
+5
+1
+2
+N1
+4
+1
+26
+'dame el siguiente numero'
+5
+1
+2
+N2
+4
+1
+23
+'dame el ultimo numero'
+5
+1
+2
+N3
+4
+1
+42
+'para conseguir la variable se multiplica'
+6
+1
+9
+resultado
+5
+N1*N2
+4
+1
+24
+'el resultado',resultado
+4
+1
+33
+'el resultado se divide entre N1'
+6
+1
+8
+cociente
+12
+resultado/N1
+4
+1
+20
+'resultado',cociente
+1

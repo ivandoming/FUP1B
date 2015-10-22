@@ -1,0 +1,105 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'lavadora pro-3000 RS ultra'
+4
+1
+40
+'Introduzca la cantidad de peso a lavar'
+5
+1
+2
+N1
+7
+0
+1
+5
+N1>20
+7
+0
+1
+21
+(N1>=16) AND (N1<=20)
+7
+0
+1
+21
+(N1>=11) AND (N1<=15)
+4
+1
+23
+'Nivel de agua: MINIMO'
+13
+4
+1
+32
+'Nivel de agua requerido: MEDIO'
+13
+13
+4
+1
+33
+'Nivel de agua requerido: MÁXIMO'
+13
+4
+1
+32
+'Indica la condición de la ropa'
+4
+1
+31
+'Delicada=1, Normal=2, Sucia=3'
+5
+1
+2
+N2
+7
+0
+1
+4
+N2=1
+7
+0
+1
+4
+N2=2
+7
+0
+1
+4
+N2=3
+4
+1
+41
+'No existe ese valor, intentelo de nuevo'
+13
+4
+1
+25
+'Tiempo de lavado: 20min'
+13
+13
+4
+1
+25
+'Tiempo de lavado: 10min'
+13
+13
+4
+1
+24
+'Tiempo de lavado: 5min'
+13
+13
+4
+1
+12
+'No se lava'
+13
+1

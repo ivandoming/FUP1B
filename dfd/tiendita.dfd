@@ -1,0 +1,105 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'programa de cuentas'
+4
+1
+15
+'papas 5 pesos'
+4
+1
+15
+'pepsi 5 pesos'
+4
+1
+11
+'churros 3'
+4
+1
+15
+'donas 4 pesos'
+4
+1
+16
+'fresas 2 pesos'
+4
+1
+58
+'si quieres papas inserta la cantidad si no quieres pon 0'
+5
+1
+2
+N1
+4
+1
+64
+'siquieres pepsi inserte la cantidad si no quieres inserte el 0'
+5
+1
+2
+N2
+4
+1
+60
+'si quieres churros inserte la cantidad si no quieres pon 0'
+5
+1
+2
+N3
+4
+1
+55
+'quieres donas inserte la cantidad si no quieres pon 0'
+5
+1
+2
+N4
+4
+1
+58
+'si quieres fresas inserte la cantidad si no quiere pon 0'
+5
+1
+2
+N5
+6
+3
+3
+dos
+4
+N1*5
+4
+tres
+4
+N2*5
+6
+cuatro
+4
+N3*3
+6
+2
+5
+cinco
+4
+N4*4
+4
+seis
+4
+N5*2
+6
+1
+9
+resultado
+26
+dos+tres+cuatro+cinco+seis
+4
+1
+17
+'total',resultado
+1

@@ -1,0 +1,162 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+10
+'lavadora'
+4
+1
+74
+'Introduzca la cantidad de ropa a lavar y en que condiciones se encuentra'
+4
+1
+40
+'Introduzca la cantidad de peso a lavar'
+5
+1
+2
+N1
+4
+1
+89
+'Introduzca la condición en la que se encuentra la ropa, delicada=1, normal=2, sucia=3, '
+7
+0
+1
+20
+(N1>=0) AND (N1<=10)
+7
+0
+1
+21
+(N1>=11) AND (N1<=15)
+7
+0
+1
+21
+(N1>=16) AND (N1<=20)
+4
+1
+12
+'No se lava'
+13
+5
+1
+2
+N4
+7
+0
+1
+6
+(N4=1)
+7
+0
+1
+6
+(N4=2)
+4
+1
+34
+'La condicion de la ropa es sucia'
+4
+1
+20
+'tardara 20 minutos'
+13
+4
+1
+35
+'La condicion de la ropa es normal'
+4
+1
+20
+'tardara 10 minutos'
+13
+13
+4
+1
+37
+'La condición de la ropa es delicada'
+13
+4
+1
+22
+'Nivel máximo de agua'
+13
+13
+5
+1
+2
+N3
+7
+0
+1
+6
+(N3=1)
+7
+0
+1
+6
+(N3=2)
+4
+1
+34
+'La condicion de la ropa es sucia'
+13
+4
+1
+35
+'La condicion de la ropa es normal'
+13
+13
+4
+1
+37
+'La condición de la ropa es delicada'
+13
+4
+1
+21
+'Nivel medio de agua'
+13
+13
+5
+1
+2
+N2
+7
+0
+1
+6
+(N2=1)
+7
+0
+1
+6
+(N2=2)
+4
+1
+34
+'La condición de la ropa es sucia'
+13
+4
+1
+35
+'La condición de la ropa es normal'
+13
+13
+4
+1
+37
+'La condición de la ropa es delicada'
+13
+4
+1
+22
+'Nivel minimo de agua'
+13
+1
